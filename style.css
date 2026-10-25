@@ -2,3 +2,6 @@
 .brand-logo{display:block;width:132px;height:132px;object-fit:contain;border-radius:50%;background:#fffaf1;margin:0 auto 14px;box-shadow:0 5px 22px #0002;border:3px solid #d6af6a}.product img{object-fit:cover}.product img[alt="Mixed Sweet Box"]{object-position:center}
 
 .payment-section{margin-top:26px;padding-top:18px;border-top:2px solid #e4c797}.payment-reference{background:#f7f1e9;padding:14px;margin:16px 0;font-weight:bold;overflow-wrap:anywhere}#payment iframe{max-width:100%}
+
+/* Direct-entry quantity controls */
+.controls{display:flex;align-items:center;gap:8px;flex-wrap:nowrap}.controls button{width:42px;height:42px;flex:0 0 42px;font-size:23px;padding:0}.controls input[type=number]{width:78px;min-width:0;height:42px;text-align:center;font-size:18px;font-weight:700;padding:5px;border:1px solid #c9b0a3;border-radius:8px;appearance:textfield;-moz-appearance:textfield}.controls input[type=number]::-webkit-inner-spin-button,.controls input[type=number]::-webkit-outer-spin-button{-webkit-appearance:none;margin:0}.controls input:focus{outline:2px solid var(--gold);outline-offset:1px}
